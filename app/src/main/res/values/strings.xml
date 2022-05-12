@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Checkbox reminder</string>
+    <string name="description">Descripcion: test description test description test description test description test description test description test description test description </string>
+    <string name="nombreejemplo">tarea 1</string>
+</resources>
